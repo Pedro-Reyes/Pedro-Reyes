@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pedro-Reyes
 - 👀 I’m interested in movies, videogames, and more. I am new in this.
-- 🌱 I’m currently learning javascript, pyton and the others languages in other moment.
+- 🌱 I am currently learning html, css, javascript and other languages that I will learn later. I want to be a full-stack developer learning all the technologies I can.
 
 
 <!---
